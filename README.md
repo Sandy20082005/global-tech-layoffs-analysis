@@ -195,6 +195,7 @@ Potential improvements to the project include:
 🔗 Additional Data Sources — Combine multiple sources to improve dataset coverage and analysis depth.
 🤖 Predictive Analysis — Explore machine learning approaches for analyzing potential future layoff trends.
 
+
 ⚠️ Limitations
 
 📊 Dataset Coverage — The analysis is limited to the records available in the provided dataset and may not represent every technology layoff event worldwide.
@@ -209,23 +210,6 @@ Sandeep Patel
 
 MSc Data Science Student | Aspiring Data Analyst
 Passionate about data analysis, data visualization, machine learning, and building practical data-driven projects.
-
-🔗 Connect with me
-💼 LinkedIn: Sandeep Patel
-💻 GitHub: Sandy20082005
-📊 Tableau Public: Sandeep Patel
-⭐ Explore the Project
-📊 Interactive Dashboard
-
-🚀 View Global Tech Layoffs Analysis on Tableau Public →
-
-Explore the complete interactive dashboard with Year and Country filters, KPI metrics, industry analysis, geographic visualization, funding-stage analysis, company drill-down, and Top 10 company analysis.
-
-💻 GitHub Repository
-
-📁 View the Source Repository →
-
-Explore the complete project files, dataset, Tableau workbook, dashboard preview, and project documentation.
 
 ⭐ If you found this project interesting, feel free to explore the dashboard and repository.
 
