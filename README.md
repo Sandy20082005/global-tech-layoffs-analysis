@@ -4,6 +4,8 @@ An interactive Tableau dashboard analyzing global technology layoffs across comp
 
 ## 🚀 Live Dashboard
 
+![Global Tech Layoffs Analysis Dashboard](screenshots/dashboard-preview.png)
+
 ### 📊 [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/sandeep.patel3280/viz/Global_Tech_Layoffs_Analysis/Dashboard1)
 
 Explore the dashboard interactively on Tableau Public.
